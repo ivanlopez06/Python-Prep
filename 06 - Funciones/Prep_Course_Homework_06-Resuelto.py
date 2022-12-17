@@ -15,6 +15,7 @@ def verifica_primo(nro):
             es_primo = False
             break
     return es_primo
+    #PRUEBA DE PUSH
 
 
 # 2) Utilizando la función del punto 1, realizar otra función que reciba de parámetro una lista de números y devuelva sólo aquellos que son primos en otra lista
